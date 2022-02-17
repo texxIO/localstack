@@ -15,6 +15,6 @@
     "jsplumb": "2.15.6",
     "dagre": "0.8.5",
     "angular-resizable": "1.2.0",
-    "angular-ui-layout": "1.4.2"
+    "angular-ui-layout": "1.4.3"
   }
 }
