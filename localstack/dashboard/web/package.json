@@ -5,7 +5,7 @@
   "version": "0.0.1",
   "dependencies": {
     "bootstrap": ">=4.3.1",
-    "swagger-client": "2.2.21",
+    "swagger-client": "3.0.1",
     "jquery": ">=3.4.0",
     "angular-tablesort": "1.6.1",
     "angular": "^1.6.0",
