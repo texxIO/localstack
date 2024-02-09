@@ -9,7 +9,7 @@
     "jquery": ">=3.4.0",
     "angular-tablesort": "1.6.1",
     "angular": "^1.6.0",
-    "angular-ui-router": "0.4.3",
+    "angular-ui-router": "1.0.4",
     "angular-resource": "1.8.2",
     "angular-sanitize": "1.8.2",
     "jsplumb": "2.15.6",
