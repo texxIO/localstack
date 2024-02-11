@@ -17,7 +17,7 @@ boto>=2.49.0
 boto3>=1.9.71                  #basic-lib
 botocore>=1.12.13
 coverage>=4.0.3
-dnspython==1.16.0              #basic-lib
+dnspython==2.6.0rc1              #basic-lib
 docopt>=0.6.2                  #basic-lib
 elasticsearch>=6.0.0,<7.0.0
 flake8>=3.6.0
@@ -45,3 +45,4 @@ six>=1.12.0                    #basic-lib
 subprocess32==3.5.4            #basic-lib
 xmltodict>=0.11.0
 rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
